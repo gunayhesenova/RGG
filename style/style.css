@@ -1,0 +1,340 @@
+html, body{
+    
+    margin: 0;
+    padding:0;
+    color: white;
+    
+    }
+
+.textAlign{
+    text-align: center;
+}
+
+
+.padding{
+    padding: 4px;
+    box-sizing: border-box;
+}
+
+.padding1{
+    padding-top: 12px;
+    box-sizing: border-box;
+    
+}
+
+.padding2{
+   padding-top: 3px;
+    box-sizing: border-box;
+    
+}
+.padding3{
+     padding-top: 23px;
+    box-sizing: border-box;
+}
+.padding5{
+     padding-top: 46px;
+    box-sizing: border-box;
+}
+.padding6{
+     padding-top: 30px;
+    box-sizing: border-box;
+}
+.padding7{
+     padding-top: 150px;
+    box-sizing: border-box;
+}
+.padding9{
+    
+     padding-top: 5px;
+    box-sizing: border-box;
+}
+
+
+/*footerdeki yazilarin classi*/
+.yazi1{
+    text-align: center;
+    padding: 4px;
+    box-sizing: border-box;
+}
+.yazi2{
+    text-align: center;
+    padding-top: 18px;
+    box-sizing: border-box;
+}
+
+
+
+
+
+
+
+#main{
+    width: 1000px;
+    height: 1200px;
+   /* background:green;*/
+    margin: 0 auto;
+    
+}
+.header{
+    width: calc(100% - 0px);
+    height: 2000px;
+}
+.umumi{
+    width: calc(100% - 0px);
+    height: 134px;
+}
+
+.sol{
+    width: calc(50% - 0px);
+    height: 150px;
+    background: white;
+    float: left
+}
+.sag{
+    width: calc(50% - 0px);
+    height: 150px;
+    background: white;
+    float: left
+}
+.iceriSol{
+    width: calc(40% - 0px);
+    height: 75px;
+    margin-top: 55px;
+    background: lightgray;
+    text-align: center;
+    padding-top: 27px;
+    box-sizing: border-box;
+    
+}
+.iceriSag{
+    width: calc(48% - 0px);
+    height: 30px;
+    background: lightgray;
+    float: right;
+    margin:100px 0px 0px 0px;
+    
+}
+.iceriSag2{
+     width: calc(12% - 0px);
+    height: 30px;
+    background: gray;
+    float: right;
+    clear: both;
+    margin:100px 0px 0px 0px;
+    
+    
+    
+}
+.navbar{
+    width: calc(100% - 0px);
+    min-height: 40px;
+    background: lightgray;
+    clear: both;
+    margin-top:5px;
+    
+}
+
+
+ul li {
+    float: left;
+    list-style-type: none;
+    padding: 10px 60px 10px 0px;
+   
+}
+
+
+
+
+
+#content{
+    width: calc(100% - 0px);
+    height: 300px;
+    background: blue;
+    margin-top: 10px;
+    
+}
+.image{
+    width: calc(70% - 0px);
+    height: 300px;
+    background: lightgray;
+    margin-top: 20px;
+    float: left;
+    
+}
+.list{
+    width: calc(30% - 0px);
+    height: 300px;
+    background: lightgray;
+    margin-top: 20px;
+    float: left;
+}
+
+.list1{
+    width: calc(100% - 0px);
+    height: 73px;
+    margin-bottom: 2.5px;
+    background: grey;
+}
+.list2{
+    width: calc(100% - 0px);
+    height: 73.5px;
+    background: grey;
+    
+}
+#middle{
+	width: 100%;
+	height: 321px;
+	margin-top:16px;
+}
+
+.middle1{
+	width: calc(70% - 15px);
+	/*background:grey;*/
+	
+	float: left;
+	margin-right: 15px ;
+}
+.middle2{
+	width: 30%;
+	height: 310px;
+	float: left;
+	background:lightgray;
+       margin-top: 20px;
+    
+}
+
+.bannerUp{
+    width: calc(100% - 0px);
+    height: 25px;
+    background:grey;
+    
+}
+
+.bowluq{
+    width: calc(100% - 0px);
+    height: 25px;
+    background:lightgray;
+    
+}
+.h1{
+    font-size: 30px
+}
+.bowluq1{
+    width: calc(100% - 0px);
+    height: 35px;
+    background:lightgray;
+    
+}
+.dolu{
+    width: calc(30% - 0px);
+    height: 65px;
+    background:grey;
+}
+.sagdaki{
+    
+     width: calc(70% - 0px);
+    height: 65px;
+    background: lightgray;
+    float: right;
+   
+}
+
+.marg{
+    margin-top:5px;
+    box-sizing: border-box
+}
+
+
+.a1{
+	width: calc(100% - 0px);
+	height: 25px;
+	background: grey;
+    margin-top: 20px;
+}
+.a2{
+
+	width: 100%;
+	height: 98px;
+	background: lightgray;
+}
+
+.a3{
+
+	width: calc(100% - 0px);
+	height: 60px;
+	background: gray;
+    margin-top: 20px;
+}
+.a4{
+
+	width: 100%;
+	height: 100px;
+    /*background: lightgray;*/
+	margin: 20px 0px;
+}
+.win{
+	width:163px; 
+	height:107px;
+	background:lightgray;
+	float: left;
+	
+}
+.marginleft{
+	margin-left: 11px;
+}
+.marginright{
+	margin-right: 11px;
+}
+
+#footer{
+   width: calc(100% - 0px);
+    
+    background: lightgray;
+    clear: both;
+    float: left;
+    margin-top: 5px;
+}
+.stranica1{
+    width: calc(50% - 0px);
+    height: 110px;
+   
+    float: left;
+    margin-top: 20;
+}
+
+.NAME{
+    width: 245px;
+    height: 25px;
+    background: grey;
+    
+}
+.EMAIL{
+    width: 245px;
+    height: 25px;
+    background: grey;
+    margin-top: 10px;
+    
+}
+.bosh{
+   width: 60px;
+    height: 25px;
+    background: grey;
+    margin: 10px 0px 0px 185px;
+    float: left;
+}
+
+.stranica2{
+    width: calc(50% - 0px);
+    height: 110px;
+    float: right;
+    margin-top: 20;
+}
+.kvadratlar{
+    
+    width: calc(50px - 0px);
+    height: 50px;
+    background: grey;
+    float: right;
+    margin: 0px 0px 0px 33px;
+   
+}
